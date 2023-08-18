@@ -10,7 +10,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -22,11 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Mobile Screenshot](./screenshots/mobile.png)
+![Desktop Screenshot](./screenshots/desktop.png)
 
 ### Links
 
-- Live Site URL: [Social Proof Section](https://slightlyfunctional.gitlab.io/social-proof-section/)
+- Live Site URL: [Social Proof Section](https://alexl8819.github.io/social-proof-section/)
 
 ## My process
 
@@ -37,8 +37,3 @@ Users should be able to:
 - Mobile-first workflow
 - [TailwindCSS](https://tailwindcss.com/) - CSS framework
 - [Parcel](https://parceljs.org/) - Bundler
-
-## Author
-
-- Website - [slightlyfunctional.com](https://slightlyfunctional.com)
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/slightlyfunctional)
